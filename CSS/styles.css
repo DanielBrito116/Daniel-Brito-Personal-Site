@@ -1,0 +1,164 @@
+body {
+  color: #1e2022;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: silver;
+  border-width: 10px;
+  margin: 100px auto;
+  width: 7%
+}
+
+h1 {
+  color: #1e2022;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.6875rem;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #1e2022;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1875rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #52616b;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #52616b;
+}
+
+a:hover {
+  color: #f0f5f9;
+}
+
+p {
+  line-height: 2;
+}
+
+.im-daniel {
+  position: relative;
+  top: 40px;
+}
+
+.a-web-dev {
+  position: relative;
+  top: 30px;
+}
+
+.top-container {
+  background-color: #f0f5f9;
+  height: 41.0625rem;
+  margin: 0;
+  position: relative;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.hello-descrip {
+  width: 40%;
+  margin: auto auto 100px;
+}
+
+.my-skills {
+  margin-top: 100px;
+}
+
+.get-in-touch {
+  margin-top: 100px;
+}
+
+.contact-p {
+  width: 40%;
+  margin: auto auto 125px;
+}
+
+.web-need {
+  margin-bottom: 29.050px
+}
+
+.profile-pic {
+  margin-top: 50px;
+  width: 12%;
+}
+
+.man-img {
+  height: 362px;
+  position: relative;
+  top: 104px;
+}
+
+.pc-screen-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.ruler-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.footer-link {
+  margin: 10px 50px 0;
+  position: relative;
+  top: 35px;
+  text-decoration: none;
+}
+
+.credits {
+  position: relative;
+  top: 50px;
+  font-size: .75rem;
+}
+
+.credit-link {
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #c9d6df;
+  margin-bottom: 0;
+  height: 165px;
+  position: relative;
+}
+
+.copyright {
+  position: relative;
+  top: 75px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: oblique;
+  font-size: .75rem;
+}
+
+.butn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #c9d6df;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  bottom: 65px;
+}
+
+.butn:hover {
+  background: #52616b;
+  text-decoration: none;
+}
